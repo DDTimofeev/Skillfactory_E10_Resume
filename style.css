@@ -154,11 +154,74 @@ article .demo {
     box-shadow: 0 0 7px rgba(0, 0, 0, 0.4);
 }
 
-.experience .timeline-item:hover {
+.experience .timeline-item1{
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(144, 214, 255); 
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.4);
+}
+
+
+.experience .timeline-item2{
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(144, 214, 255); 
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.4);
+}
+
+
+.experience .timeline-item3{
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(144, 214, 255); 
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.4);
+}
+
+
+.experience .timeline-item4{
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(144, 214, 255); 
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.4);
+}
+
+
+.experience .timeline-item2:hover {
     background-color: rgb(0, 0, 0); 
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
     color: #0000;
-    background-image: url(img/ts.png);
+    background-image: url(img/ruukki.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.experience .timeline-item1:hover {
+    background-color: rgb(0, 0, 0); 
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+    color: #0000;
+    background-image: url(img/bal_npp.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.experience .timeline-item3:hover {
+    background-color: rgb(0, 0, 0); 
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+    color: #0000;
+    background-image: url(img/doorhan.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.experience .timeline-item4:hover {
+    background-color: rgb(0, 0, 0); 
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+    color: #0000;
+    background-image: url(img/arneg.jpg);
     background-size: cover;
     background-position: center;
 }
